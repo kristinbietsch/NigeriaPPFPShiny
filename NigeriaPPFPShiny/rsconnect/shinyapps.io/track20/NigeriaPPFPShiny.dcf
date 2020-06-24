@@ -1,0 +1,12 @@
+name: NigeriaPPFPShiny
+title: NigeriaPPFPShiny
+username:
+account: track20
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2462551
+bundleId: 3279071
+url: https://track20.shinyapps.io/NigeriaPPFPShiny/
+when: 1592338155.91834
+asMultiple: FALSE
+asStatic: FALSE
